@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 I'm Sebastian Dowell, a first-year physics student at UC Davis.
 
